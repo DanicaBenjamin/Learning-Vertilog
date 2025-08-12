@@ -4,7 +4,7 @@ A collection of Verilog projects and experiments documenting my learning journey
 Start date: 12th of August 2025
 
 
-**Tools used:
+**Tools used:**
 1. Icarus Verilog
 2. GTKWave 
 
