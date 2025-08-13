@@ -10,3 +10,6 @@ Start date: 12th of August 2025
 
 
 _Each folder contains testbatch and design code along with output screenshots._ 
+
+#Projects:
+
