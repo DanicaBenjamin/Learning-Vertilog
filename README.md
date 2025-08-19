@@ -14,4 +14,5 @@ _Each folder contains testbatch and design code along with output screenshots._
 **Projects:**
 1. [Half Adder](https://github.com/DanicaBenjamin/Learning-Vertilog/tree/main/Half%20Adder)
 2. [Full Adder](https://github.com/DanicaBenjamin/Learning-Vertilog/tree/main/Full%20Adder)
+3. [Multiplexer](https://github.com/DanicaBenjamin/Learning-Vertilog/tree/main/Multiplexer)
 
