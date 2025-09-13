@@ -1,4 +1,4 @@
-# Learning-Vertilog
+# Learning-Verilog
 A collection of Verilog projects and experiments documenting my learning journey
 
 Start date: 12th of August 2025
